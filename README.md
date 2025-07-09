@@ -9,10 +9,6 @@
 **OpenCore 1.0.4 Debug version**
 
 ---
-### Screenshot
-![overview](https://github.com/user-attachments/assets/db983360-b21f-49cf-91ed-e6c544125c18)
-
----
 ### What's not working
 1. Sleep
 2. Network card (Wi-Fi, Bluetooth)
